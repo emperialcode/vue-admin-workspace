@@ -1,5 +1,7 @@
 # Ledger — Vue Admin Workspace
 
+**[Open the live demo](https://emperialcode.github.io/vue-admin-workspace/)**
+
 A responsive, interactive **Vue 3 + TypeScript** portfolio demonstration of a SaaS admin dashboard. Uses Vite, Tailwind CSS v4, and Lucide icons.
 
 > **Demo only:** All invoice/customer data is fictional. No real payment provider, customer data, private repository, or backend is connected.
